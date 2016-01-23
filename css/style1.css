@@ -74,3 +74,7 @@
 	color: #fff;
 	padding-top: 15px;
 }
+.carousel-control.left, .carousel-control.right{
+	background-image: none;
+	color: green;
+}
