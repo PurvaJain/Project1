@@ -1,0 +1,76 @@
+
+.jumbotron{
+	background-color: #529b66;
+	background-position:center center;
+	background-size: cover;
+	min-height: 400px;
+	margin-bottom: 0;
+	margin-top:50px;
+}
+.btn-primary {
+    background: transparent none repeat scroll 0 0;
+    border: 2px solid #fff;
+    border-radius: 0;
+    color: #fff;
+}
+.btn-default{
+	border: 2px solid #df5757;
+}
+.white_text{
+	color: #fff;
+}
+#aboutme{
+	background-color: #0b0b0b;
+	min-height: 400px;
+}
+#services{
+	background-color: #df5757;
+	min-height: 400px;
+}
+
+.space{
+	padding: 25px;
+}
+#work{
+	min-height: 800px;
+}
+#testimonials{
+	background-color: #ebebeb;
+	min-height: 400px;
+}
+#contact{
+	background-color: #529b66;
+	min-height: 500px;
+}
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 10%;
+      margin: 0 auto;
+  }
+.carousel{
+	background: #ebebeb;
+}
+.fa{
+	color: #fff;
+}
+
+.space1{
+	margin-bottom: 30px;
+}
+.form-control{
+	background: #529562 !important;
+	color: #fff !important;
+	border-color: #529562 #529562 #ffffff #529562 !important;
+
+}
+.form-control::-moz-placeholder {
+	color: #fff;
+}
+
+#footer{
+	min-height: 50px;
+	background: #477954;
+	color: #fff;
+	padding-top: 15px;
+}
