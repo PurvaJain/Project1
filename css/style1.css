@@ -19,6 +19,10 @@
 .white_text{
 	color: #fff;
 }
+.navbar-brand{
+	padding: 8px;
+}
+
 #aboutme{
 	background-color: #0b0b0b;
 	min-height: 400px;
@@ -31,6 +35,17 @@
 .space{
 	padding: 25px;
 }
+
+.img_container{
+	margin: 20px auto;
+}
+.img_space{
+	margin: 12px auto;
+}
+.img_spacing{
+	margin: 5px auto;
+}
+
 #work{
 	min-height: 800px;
 }
